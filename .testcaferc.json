@@ -1,0 +1,8 @@
+{
+    "pageLoadTimeout": 10000,
+    "selectorTimeout": 10000,
+    "assertionTimeout": 10000,
+    "screenshotPath": "test/reports/",
+    "takeScreenshotsOnFails": true,
+    "browsers": "chrome:headless"
+}
